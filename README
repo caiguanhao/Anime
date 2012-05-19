@@ -1,0 +1,25 @@
+Small Anime Website
+===================
+
+
+About
+-----
+
+This is a small anime website written in ASP and completed on 2011-03-17. The ASP file encoding is 
+GB2312. This website uses Free ASP Upload (http://www.freeaspupload.net/), mootools.js, Slideshow.js, 
+Microsoft Access Database etc.
+
+Admin: apple Password: 123456
+
+
+Requirements
+------------
+
+* IIS environment in Windows.
+
+
+Developer
+---------
+
+* caiguanhao (caiguanhao@gmail.com)
+
